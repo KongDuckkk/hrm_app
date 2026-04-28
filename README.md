@@ -241,14 +241,14 @@ salary       — Bảng lương (id, employeeId, month, year, workDays, totalSal
 
 | Họ tên | MSSV | Vai trò |
 |--------|------|---------|
-| [Tên thành viên 1] | [MSSV] | Trưởng nhóm, Backend |
-| [Tên thành viên 2] | [MSSV] | Frontend, UI/UX |
-| [Tên thành viên 3] | [MSSV] | Database, Testing |
+| LÊ CÔNG ĐỨC | DH52200518 | Trưởng nhóm, Backend |
+| LÊ CÔNG ĐỨC | DH52200518 | Frontend, UI/UX |
+| LÊ CÔNG ĐỨC | DH52200518 | Database, Testing |
 
-> 📌 **Trường:** [Tên trường]  
-> 📌 **Lớp:** [Tên lớp]  
+> 📌 **Trường:** STU  
+> 📌 **Lớp:** D22_TH12  
 > 📌 **Môn học:** Lập trình di động  
-> 📌 **Giảng viên hướng dẫn:** [Tên GV]
+
 
 ---
 
